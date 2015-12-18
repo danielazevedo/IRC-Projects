@@ -1,0 +1,1 @@
+ ficheiro de texto para testes do servidor
